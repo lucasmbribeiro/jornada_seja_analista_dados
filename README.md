@@ -1,2 +1,4 @@
-# jornada_seja_analista_dados
+# JORNADA SEJA ANALISTA DE DADOS
+
+
 Jornada para se tornar analista de dados
