@@ -5,12 +5,17 @@ Jornada para se tornar analista de dados
 
 ## __NOSSAS REDE SOCIAIS__
 <a href="https://www.youtube.com/channel/UCdHcGHqsxDOK8tDJf96x1SA">
-<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/youtube-512.png" width="48" url="www.google.com">
+<img src="./Imagens/youtube.png" width="50" url="www.google.com">
 </a>
 
 <a href="https://www.instagram.com/seja_analistadados/">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" width="48">
+<img src="./Imagens/instagram.png" width="48">
 </a>
 
+<br>
+
+## __JORNADA__
+
+![](./Imagens/jornada_analista_dados.png)
 
 
