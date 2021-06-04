@@ -18,4 +18,18 @@ Jornada para se tornar analista de dados
 
 ![](./Imagens/jornada_analista_dados.png)
 
+## __VÍDEOS DA JORNADA__
+
+### __MÓDULO 1__
+
+1. [Jornada Seja Analista de Dados](https://youtu.be/uf9muMGGdN8)
+2. [Configurando o ambiente](https://youtu.be/ecR-bQrNKJ8)
+3. [Variáveis](https://youtu.be/AZucLNV47ts)
+4. [Operadores Matemáticos](https://youtu.be/CJqCp0uGEp4)
+5. [Estrutura de Dados](https://youtu.be/ofx0nLj_cp8)
+6. [Operadores Lógicos, Comparação e Condição](https://youtu.be/XDZIl7mlKxw)
+7. [Operadores de Repetição](https://youtu.be/ElFPRv15Tcc)
+8. [2 Operadores de Repetição](https://youtu.be/KogVsS9xT7c)
+9. [Funções](https://youtu.be/aSNk5K3QogE)
+
 
