@@ -32,7 +32,7 @@ Jornada para se tornar analista de dados
 8. [2 Operadores de Repetição](https://youtu.be/KogVsS9xT7c)
 9. [Funções](https://youtu.be/aSNk5K3QogE)
 
-### __MÓDULO 2_
+### __MÓDULO 2__
 
 1. [Apresentação do Case](https://youtu.be/iKGCUmhPto8)
 2. [Leitura de Arquivo de Dados com Pandas](https://youtu.be/SRJT5m3MLFQ)
@@ -42,6 +42,10 @@ Jornada para se tornar analista de dados
 6. [Agrupando e Pivotando Dados](https://youtu.be/nLiPq1irxuw)
 7. [Filtrando o Dataframe](https://youtu.be/EVzB2N2Efc0)
 8. [Exportando Dados](https://youtu.be/CrDhT0j_XgM)
+
+### __MÓDULO 3__
+
+Em desenvolvimento ... 
 
 
 
