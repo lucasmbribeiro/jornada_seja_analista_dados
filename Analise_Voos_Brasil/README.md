@@ -14,7 +14,7 @@
 
 * [Vídeo 01: Explorando o Dataset. (04/10/2021)](https://www.youtube.com/watch?v=zXM9tWoPfws)
 * [Vídeo 02: Parte 2 - Explorando o Dataset. (06/10/2021)](https://www.youtube.com/watch?v=vp-fDGWrX48)
-* [Vídeo 03: Parte 3 - Explorando o Dataset. (06/10/2021)](https://youtu.be/QW_jXsVPBIo)
+* [Vídeo 03: Parte 3 - Explorando o Dataset. (08/10/2021)](https://youtu.be/QW_jXsVPBIo)
 
 ## Dependências de instalação para executar esse projeto
 
